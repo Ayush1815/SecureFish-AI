@@ -1,0 +1,8 @@
+Flask
+keras
+lightgbm
+numpy==1.16.5
+pandas
+requests
+scikit-learn
+urllib3
